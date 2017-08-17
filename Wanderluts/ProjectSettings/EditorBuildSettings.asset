@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Wanderlust.unity
+    guid: 5d7862ca9176e344687ea44089e8cfd0
+  - enabled: 1
+    path: Assets/Game.unity
+    guid: 50136da3e0769a949bb35a55715704e8
